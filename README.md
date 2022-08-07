@@ -1,4 +1,3 @@
 # Hi there 👋
 
-[<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<iframe src="https://giphy.com/embed/lP8xu5t2DLGG045H8F" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">via GIPHY</a></p>
